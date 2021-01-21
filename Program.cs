@@ -21,7 +21,7 @@ namespace MCHS_Resender
             }
             catch
             {
-                Console.WriteLine("Таймер не запущен!!!");
+                Console.WriteLine("Таймер не запущен");
                 Console.ReadLine();
             }
         }
