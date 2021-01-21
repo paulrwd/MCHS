@@ -1,1 +1,2 @@
 # MCHS
+Отсутствует App.config
